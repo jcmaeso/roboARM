@@ -156,6 +156,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYDPSKQH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for roboARM_V1I1\Design Rule Check - roboARM_PCB_V1I1_1.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Company
 Value=(c) 2013 FEDEVEL www.fedevel.com
